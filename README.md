@@ -1,6 +1,7 @@
 # Residential Elevator Pricing Optimization
 
 该项目聚焦老旧小区加装电梯场景中的定价与补偿问题，尝试在居民支付意愿、楼层差异、公平性与项目成本回收之间建立可计算的平衡机制。
+<img width="1285" height="547" alt="image" src="https://github.com/user-attachments/assets/db75d635-e095-4ddd-94a6-1a8f622afdcf" />
 
 ## Project Goals
 
